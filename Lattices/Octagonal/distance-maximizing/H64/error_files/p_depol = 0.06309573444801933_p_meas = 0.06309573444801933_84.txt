@@ -1,0 +1,152 @@
+step = -6
+  depol:
+    
+  measurement:
+    
+step = -5
+  depol:
+    
+  measurement:
+    
+step = -4
+  depol:
+    
+  measurement:
+    
+step = -3
+  depol:
+    
+  measurement:
+    
+step = -2
+  depol:
+    
+  measurement:
+    
+step = -1
+  depol:
+    
+  measurement:
+    
+step = 0
+  depol:
+    19 2, 20 2, 23 0, 57 1, 58 2, 59 0
+  measurement:
+    21
+step = 1
+  depol:
+    5 2, 11 0, 17 1, 32 2, 40 2, 52 0
+  measurement:
+    39
+step = 2
+  depol:
+    9 0, 11 1, 48 1, 50 0, 61 0
+  measurement:
+    69, 70, 76
+step = 3
+  depol:
+    11 2, 28 0, 29 0, 44 0, 53 0
+  measurement:
+    1, 24, 28, 31
+step = 4
+  depol:
+    6 2, 32 0, 56 0
+  measurement:
+    40, 48, 56, 61
+step = 5
+  depol:
+    17 2, 41 0, 50 2, 51 2, 58 2
+  measurement:
+    67
+step = 6
+  depol:
+    5 2, 16 0, 25 0
+  measurement:
+    14, 16
+step = 7
+  depol:
+    19 2, 37 0
+  measurement:
+    43, 48, 50
+step = 8
+  depol:
+    43 0, 44 2, 52 0, 63 2
+  measurement:
+    
+step = 9
+  depol:
+    15 2, 16 2, 21 2, 36 2, 57 1
+  measurement:
+    
+step = 10
+  depol:
+    7 0, 35 2, 42 2, 44 2
+  measurement:
+    56, 58, 60
+step = 11
+  depol:
+    12 2, 27 0, 40 2, 50 2, 55 1, 56 2
+  measurement:
+    76, 82
+step = 12
+  depol:
+    
+  measurement:
+    
+step = 13
+  depol:
+    
+  measurement:
+    
+step = 14
+  depol:
+    
+  measurement:
+    
+step = 15
+  depol:
+    
+  measurement:
+    
+step = 16
+  depol:
+    
+  measurement:
+    
+step = 17
+  depol:
+    
+  measurement:
+    
+step = 18
+  depol:
+    2 2, 13 2, 17 2, 18 2, 19 2, 30 2, 32 2, 37 2
+  measurement:
+    
+step = 19
+  depol:
+    16 0, 22 0, 39 0, 39 0, 49 0, 52 0
+  measurement:
+    
+step = 20
+  depol:
+    6 1, 8 1, 10 1, 14 1, 22 1, 35 1, 39 1, 46 1
+  measurement:
+    
+step = 21
+  depol:
+    2 2, 2 2, 3 2, 10 2, 25 2, 34 2
+  measurement:
+    
+step = 22
+  depol:
+    8 0, 18 0, 22 0, 38 0
+  measurement:
+    
+step = 23
+  depol:
+    14 1
+  measurement:
+    
+logical flips
+False False

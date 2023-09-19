@@ -1,0 +1,152 @@
+step = -6
+  depol:
+    
+  measurement:
+    
+step = -5
+  depol:
+    
+  measurement:
+    
+step = -4
+  depol:
+    
+  measurement:
+    
+step = -3
+  depol:
+    
+  measurement:
+    
+step = -2
+  depol:
+    
+  measurement:
+    
+step = -1
+  depol:
+    
+  measurement:
+    
+step = 0
+  depol:
+    48 1, 62 1
+  measurement:
+    12
+step = 1
+  depol:
+    15 1
+  measurement:
+    33, 46, 58
+step = 2
+  depol:
+    8 2, 32 0
+  measurement:
+    75, 92
+step = 3
+  depol:
+    34 1, 56 1, 61 0
+  measurement:
+    31
+step = 4
+  depol:
+    26 2, 29 0, 33 0, 41 2
+  measurement:
+    50, 61
+step = 5
+  depol:
+    6 0, 7 0, 32 2
+  measurement:
+    75, 81, 82, 89, 92
+step = 6
+  depol:
+    7 0, 11 1
+  measurement:
+    17, 19
+step = 7
+  depol:
+    2 2, 22 1, 33 1, 39 1, 58 0
+  measurement:
+    47
+step = 8
+  depol:
+    5 1, 41 1, 47 0, 55 1, 62 1
+  measurement:
+    69, 78
+step = 9
+  depol:
+    
+  measurement:
+    13, 15
+step = 10
+  depol:
+    16 0, 20 0, 32 1
+  measurement:
+    56
+step = 11
+  depol:
+    1 1, 20 0
+  measurement:
+    71, 76, 80
+step = 12
+  depol:
+    
+  measurement:
+    
+step = 13
+  depol:
+    
+  measurement:
+    
+step = 14
+  depol:
+    
+  measurement:
+    
+step = 15
+  depol:
+    
+  measurement:
+    
+step = 16
+  depol:
+    
+  measurement:
+    
+step = 17
+  depol:
+    
+  measurement:
+    
+step = 18
+  depol:
+    16 2, 18 2, 20 2, 23 2, 25 2, 30 2, 32 2, 40 2, 58 2
+  measurement:
+    
+step = 19
+  depol:
+    4 0, 13 0, 14 0, 16 0, 18 0, 22 0, 26 0, 29 0, 30 0, 43 0, 52 0
+  measurement:
+    
+step = 20
+  depol:
+    7 1, 12 1, 17 1, 55 1
+  measurement:
+    
+step = 21
+  depol:
+    2 2, 23 2, 40 2, 42 2
+  measurement:
+    
+step = 22
+  depol:
+    30 0
+  measurement:
+    
+step = 23
+  depol:
+    20 1, 29 1, 37 1
+  measurement:
+    
+logical flips
+True False

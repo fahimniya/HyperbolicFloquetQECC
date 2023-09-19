@@ -1,0 +1,152 @@
+step = -6
+  depol:
+    
+  measurement:
+    
+step = -5
+  depol:
+    
+  measurement:
+    
+step = -4
+  depol:
+    
+  measurement:
+    
+step = -3
+  depol:
+    
+  measurement:
+    
+step = -2
+  depol:
+    
+  measurement:
+    
+step = -1
+  depol:
+    
+  measurement:
+    
+step = 0
+  depol:
+    2 2, 7 2, 8 0, 16 1, 21 2, 35 2, 41 0
+  measurement:
+    5, 9, 26, 29
+step = 1
+  depol:
+    29 0, 39 2, 56 1
+  measurement:
+    46, 47, 51, 63
+step = 2
+  depol:
+    37 0, 63 1
+  measurement:
+    89
+step = 3
+  depol:
+    11 0, 24 0, 62 2
+  measurement:
+    2, 5, 10, 14, 24, 29
+step = 4
+  depol:
+    10 2, 11 1, 16 0, 17 2, 20 2, 43 2, 51 2, 60 2
+  measurement:
+    34, 59
+step = 5
+  depol:
+    4 1, 17 2
+  measurement:
+    68, 81, 82, 85, 95
+step = 6
+  depol:
+    5 2, 7 2, 17 2, 18 2, 20 2, 49 0, 52 2, 54 2
+  measurement:
+    
+step = 7
+  depol:
+    12 2, 21 0, 25 2, 42 2
+  measurement:
+    36, 40, 45, 46, 55
+step = 8
+  depol:
+    10 1, 45 2, 51 1, 59 2
+  measurement:
+    64, 70, 80, 85, 92
+step = 9
+  depol:
+    28 2, 61 2
+  measurement:
+    4, 10, 14
+step = 10
+  depol:
+    17 2, 54 2
+  measurement:
+    36, 59
+step = 11
+  depol:
+    6 2, 19 0
+  measurement:
+    84, 95
+step = 12
+  depol:
+    
+  measurement:
+    
+step = 13
+  depol:
+    
+  measurement:
+    
+step = 14
+  depol:
+    
+  measurement:
+    
+step = 15
+  depol:
+    
+  measurement:
+    
+step = 16
+  depol:
+    
+  measurement:
+    
+step = 17
+  depol:
+    
+  measurement:
+    
+step = 18
+  depol:
+    6 2, 6 2, 15 2, 19 2, 19 2, 40 2, 42 2, 42 2
+  measurement:
+    
+step = 19
+  depol:
+    4 0, 13 0, 21 0, 38 0, 43 0, 52 0
+  measurement:
+    
+step = 20
+  depol:
+    6 1, 29 1
+  measurement:
+    
+step = 21
+  depol:
+    2 2, 3 2, 18 2, 34 2
+  measurement:
+    
+step = 22
+  depol:
+    9 0, 22 0, 29 0, 36 0, 39 0, 41 0
+  measurement:
+    
+step = 23
+  depol:
+    11 1, 12 1, 27 1, 27 1, 35 1, 42 1, 46 1
+  measurement:
+    
+logical flips
+True False

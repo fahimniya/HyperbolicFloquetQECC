@@ -1,0 +1,152 @@
+step = -6
+  depol:
+    
+  measurement:
+    
+step = -5
+  depol:
+    
+  measurement:
+    
+step = -4
+  depol:
+    
+  measurement:
+    
+step = -3
+  depol:
+    
+  measurement:
+    
+step = -2
+  depol:
+    
+  measurement:
+    
+step = -1
+  depol:
+    
+  measurement:
+    
+step = 0
+  depol:
+    18 0, 27 0, 48 0
+  measurement:
+    14, 29
+step = 1
+  depol:
+    11 2, 26 1, 35 2, 38 2, 57 1
+  measurement:
+    32
+step = 2
+  depol:
+    23 0, 33 2, 61 0
+  measurement:
+    67, 95
+step = 3
+  depol:
+    8 0, 15 1, 33 2, 61 2
+  measurement:
+    6
+step = 4
+  depol:
+    18 2, 53 0, 58 0
+  measurement:
+    48, 58, 62
+step = 5
+  depol:
+    4 0, 28 0, 31 2
+  measurement:
+    73
+step = 6
+  depol:
+    34 1, 37 2, 45 2
+  measurement:
+    10, 17, 31
+step = 7
+  depol:
+    13 0, 18 1, 34 1, 50 2, 62 1
+  measurement:
+    37, 40, 41, 56
+step = 8
+  depol:
+    12 1, 16 0, 32 2, 58 0
+  measurement:
+    90, 93
+step = 9
+  depol:
+    3 1, 8 0, 22 1, 25 0, 27 0, 32 1, 36 0, 44 2, 53 0, 59 1
+  measurement:
+    3, 26, 31
+step = 10
+  depol:
+    16 2, 36 0, 60 1
+  measurement:
+    42, 53, 59
+step = 11
+  depol:
+    21 0, 24 2, 29 0, 62 1
+  measurement:
+    73, 88
+step = 12
+  depol:
+    
+  measurement:
+    
+step = 13
+  depol:
+    
+  measurement:
+    
+step = 14
+  depol:
+    
+  measurement:
+    
+step = 15
+  depol:
+    
+  measurement:
+    
+step = 16
+  depol:
+    
+  measurement:
+    
+step = 17
+  depol:
+    
+  measurement:
+    
+step = 18
+  depol:
+    2 2, 10 2, 15 2, 17 2, 28 2, 36 2, 42 2, 42 2, 58 2
+  measurement:
+    
+step = 19
+  depol:
+    14 0, 14 0, 24 0, 29 0, 35 0, 39 0, 49 0, 52 0
+  measurement:
+    
+step = 20
+  depol:
+    14 1, 29 1, 44 1, 46 1
+  measurement:
+    
+step = 21
+  depol:
+    0 2, 9 2, 16 2, 36 2, 42 2
+  measurement:
+    
+step = 22
+  depol:
+    15 0, 18 0, 18 0, 24 0, 41 0, 54 0
+  measurement:
+    
+step = 23
+  depol:
+    5 1, 6 1, 11 1, 25 1, 27 1, 39 1, 46 1
+  measurement:
+    
+logical flips
+False True

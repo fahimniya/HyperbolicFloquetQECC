@@ -1,0 +1,152 @@
+step = -6
+  depol:
+    
+  measurement:
+    
+step = -5
+  depol:
+    
+  measurement:
+    
+step = -4
+  depol:
+    
+  measurement:
+    
+step = -3
+  depol:
+    
+  measurement:
+    
+step = -2
+  depol:
+    
+  measurement:
+    
+step = -1
+  depol:
+    
+  measurement:
+    
+step = 0
+  depol:
+    18 1, 55 2, 60 0, 61 0, 62 2
+  measurement:
+    21, 22
+step = 1
+  depol:
+    26 0, 35 1
+  measurement:
+    57, 59
+step = 2
+  depol:
+    3 1, 9 0, 17 0, 20 2, 24 1, 25 0, 28 0, 60 2
+  measurement:
+    68
+step = 3
+  depol:
+    41 2, 56 2
+  measurement:
+    21
+step = 4
+  depol:
+    13 1, 14 0, 33 0, 34 0, 52 0, 53 2
+  measurement:
+    50, 51
+step = 5
+  depol:
+    4 1, 25 0, 30 0, 46 1, 47 2
+  measurement:
+    94
+step = 6
+  depol:
+    14 1, 17 2
+  measurement:
+    
+step = 7
+  depol:
+    0 2, 11 0, 28 2, 37 2, 46 0, 55 2
+  measurement:
+    54
+step = 8
+  depol:
+    0 0, 1 2, 12 1, 16 1, 17 0, 27 1, 41 0
+  measurement:
+    66, 91
+step = 9
+  depol:
+    5 1, 18 1, 58 1
+  measurement:
+    1, 7, 18
+step = 10
+  depol:
+    14 0, 17 0, 23 0
+  measurement:
+    39, 58
+step = 11
+  depol:
+    16 1, 20 2, 33 1, 36 2, 38 2, 54 0, 59 1
+  measurement:
+    68, 85
+step = 12
+  depol:
+    
+  measurement:
+    
+step = 13
+  depol:
+    
+  measurement:
+    
+step = 14
+  depol:
+    
+  measurement:
+    
+step = 15
+  depol:
+    
+  measurement:
+    
+step = 16
+  depol:
+    
+  measurement:
+    
+step = 17
+  depol:
+    
+  measurement:
+    
+step = 18
+  depol:
+    2 2, 3 2, 13 2, 15 2, 17 2, 20 2, 23 2, 26 2, 58 2
+  measurement:
+    
+step = 19
+  depol:
+    7 0, 9 0, 11 0, 13 0, 21 0, 22 0, 24 0, 36 0, 41 0
+  measurement:
+    
+step = 20
+  depol:
+    19 1
+  measurement:
+    
+step = 21
+  depol:
+    16 2, 28 2, 57 2
+  measurement:
+    
+step = 22
+  depol:
+    0 0, 16 0, 16 0, 23 0, 26 0, 29 0, 30 0, 43 0
+  measurement:
+    
+step = 23
+  depol:
+    0 1, 5 1, 5 1, 7 1, 14 1, 27 1, 42 1
+  measurement:
+    
+logical flips
+True False
