@@ -1,8 +1,8 @@
 # HyperbolicFloquetQECC
-### Fault-tolerant hyperbolic Floquet quantum error correcting codes
+Fault-tolerant hyperbolic Floquet quantum error correcting codes
 
 
-arXiv:
+arXiv: https://arxiv.org/abs/2309.10033
 
 contact: fahim@umd.edu
 
